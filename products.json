@@ -1,0 +1,109 @@
+[
+    {
+        "Brandname" :  "Milma",
+        "Productname" : "Milk",
+        "Quantity" : "500 ml",
+        "Price" : 27,
+        "MRP" : 27,
+        "imgurl" : "milmamilk",
+        "offerText" : "Quality Cows milk with milma"
+    },
+    {
+        "Brandname" :  "Milma",
+        "Productname" : "Milma Curd",
+        "Quantity" : "500 ml",
+        "Price" : 30,
+        "MRP" : 30,
+        "imgurl" : "milmacurd",
+        "offerText" : "Milma better quality curd"
+
+    },
+    {
+        "Brandname" :  "Milma",
+        "Productname" : "Butter",
+        "Quantity" : "500 g",
+        "Price" : 80,
+        "MRP" : 77,
+        "imgurl" : "butter",
+        "offerText" : "Better better Milma butter "
+
+    },
+    {
+        "Brandname" :  "Amul",
+        "Productname" : "Ghee",
+        "Quantity" : "400g",
+        "Price" : 55,
+        "MRP" : 53,
+        "imgurl" : "amulghee",
+        "offerText" : "Amul ghee maintains quality"
+    },
+    {
+        "Brandname" :  "Amul",
+        "Productname" : "Icecream",
+        "Quantity" : "500 ml",
+        "Price" : 300,
+        "MRP" : 280,
+        "imgurl" : "amulicecream",   
+        "offerText" : "Amul Icecreams tastes good "
+
+    },
+    {
+        "Brandname" :  "Britania",
+        "Productname" : "Bounce",
+        "Quantity" : "100g",
+        "Price" : 24,
+        "MRP" : 25,
+        "imgurl" : "bounce",
+        "offerText" : "Britania for snacks "
+
+    },
+    {
+        "Brandname" :  "Britania",
+        "Productname" : "Bounty",
+        "Quantity" : "100 g",
+        "Price" : 48,
+        "MRP" : 50,
+        "imgurl" : "bounty",
+        "offerText" : "Britania chocalate buscuits"
+
+    },
+    {
+        "Brandname" : "DiaryMilk",
+        "Productname" : "Diarymilk Chocolate",
+        "Quantity" : "200 g",
+        "Price" : 340,
+        "MRP" : 350,
+        "imgurl" : "diarymilk",
+        "offerText" : "Grow up to get it"
+    },
+    {
+        "Brandname" :  "Milky Mist",
+        "Productname" : "Milky Mist Curd",
+        "Quantity" : "400 g",
+        "Price" : 35,
+        "MRP" : 40,
+        "imgurl" : "milkymistcurd",
+        "offerText" : "I love Milky Mist curd "
+
+    },
+    {
+        "Brandname" :  "Milky Mist",
+        "Productname" : "Milky Mist Paneer",
+        "Quantity" : "200 g",
+        "Price" : 55,
+        "MRP" : 60,
+        "imgurl" : "milkymistpaneer",
+        "offerText" : "I love Milky Mist Paneer "
+
+    },
+    {
+        "Brandname" :  "Britnia",
+        "Productname" : "Dark Fantasy",
+        "Quantity" : "200 g",
+        "Price" : 60,
+        "MRP" : 65,
+        "imgurl" : "darkfantasy",
+        "offerText" : "Kiss me && Close ur eyes"
+
+    }
+]
